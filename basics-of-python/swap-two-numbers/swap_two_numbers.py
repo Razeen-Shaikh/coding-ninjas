@@ -1,6 +1,6 @@
 from typing import List
 
-def swap_number(a:list,  b: list) -> None:
+def swap_number(a:List,  b: List) -> None:
     """
     Swaps the contents of two lists.
 
