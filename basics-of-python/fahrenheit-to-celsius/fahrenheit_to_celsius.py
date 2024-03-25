@@ -3,7 +3,6 @@ from sys import *
 from collections import *
 from math import *
 
-#Your code goes here
 S = int(input())
 E = int(input())
 W = int(input())

@@ -1,7 +1,4 @@
-from os import *
-from sys import *
-from collections import *
-from math import *
+# basics-of-python/find-power-of-a-number/find-power-of-a-number.py
 
 x, n = map(int, input().split())
 
