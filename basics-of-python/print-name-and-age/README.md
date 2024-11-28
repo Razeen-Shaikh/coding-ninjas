@@ -1,6 +1,5 @@
 # Print Name and age
 
-**Problem statement**
 Take the person's name and age as input and print out the name and age as specified in the output format.
 
 > **Sample Input 1:**
